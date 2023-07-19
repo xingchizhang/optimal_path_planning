@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/optimal_path_planning">
+        <file>1.jpg</file>
+    </qresource>
+</RCC>
